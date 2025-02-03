@@ -12,7 +12,7 @@ Ce projet implémente le célèbre jeu **Simon** sur une plateforme Arduino. Le 
 - **Câbles de connexion** et une **breadboard**
 
 ## Schéma de connexion
-![Schéma structurel](simon3.svg)
+![Schéma structurel](../hardware/kicad/simon3/simon3.svg)
 Les broches utilisées dans ce projet sont définies dans le code :
 
 - **LEDs :**
