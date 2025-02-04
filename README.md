@@ -94,7 +94,7 @@ Voici un guide étape par étape pour concevoir et assembler la carte électroni
 - Placer la carte par dessus 
 ![Shield maintenu sur l'Arduino UNO](images/etape7.jpg)
 ![Soudure du connecteur](images/etape8.jpg)
-![Soudure du buzzer](images/etape8.jpg)
+![Soudure du buzzer](images/etape9.jpg)
 
 
 ---
