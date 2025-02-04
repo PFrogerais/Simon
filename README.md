@@ -19,6 +19,7 @@ Voici un guide étape par étape pour concevoir et assembler la carte électroni
 
 ---
 ## 2. Nomenclature 
+[Nomenclature](hardware/kicad/simon3/simon3.csv)
 
 ## 4. Préparation à l’Assemblage
 
