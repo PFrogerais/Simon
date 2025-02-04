@@ -113,17 +113,75 @@ Voici un guide étape par étape pour concevoir et assembler la carte électroni
 ---
 
 
-# Mise en Boitier
+Voici une explication détaillée de la section "Mise en Boitier" telle qu'elle apparaît dans votre README.md :
 
-Modèle 3D du boitier à utiliser pour le slicer et l'impression 3D.
-[Boitier Simon](hardware/Boitier/simon_box_2-MainBox.stl)
-- Ajouter les inserts à chaud à l'aide d'un fer à souder
-  
-![Boitier + insert](/images/etape11.png)
-- Ajouter la carte Arduino UNO
-![Boitier + insert + UNO](/images/etape12.png)
-- Ajouter le shield
-![Boitier + insert + UNO+ Shield](/images/etape13.png)
-- Visser les 4 vis dans les inesrts 
-![Boitier + insert + UNO+ Shield + Vis](/images/etape14.png)
+---
+
+### Contexte général
+
+Cette section décrit les étapes d'assemblage de votre projet dans un boîtier imprimé en 3D. Le but est de fournir toutes les informations nécessaires pour intégrer les composants électroniques (Arduino UNO, shield, etc.) dans le boîtier final. Le modèle 3D du boîtier, au format STL, est mis à disposition pour que vous puissiez le préparer dans votre logiciel de découpe (slicer) et lancer l'impression 3D.
+
+---
+
+### Détail des étapes
+
+1. **Modèle 3D du boîtier**
+
+   - **Description :**  
+     Vous disposez du fichier STL du boîtier, nommé ici "Boitier Simon". Ce fichier est utilisé avec un slicer pour préparer l'impression 3D de la pièce.
+     
+   - **Lien :**  
+     `[Boitier Simon](hardware/Boitier/simon_box_2-MainBox.stl)`  
+     En cliquant sur ce lien, vous accédez directement au fichier STL hébergé dans le répertoire `hardware/Boitier/` de votre dépôt GitHub.
+
+2. **Ajouter les inserts à chaud à l'aide d'un fer à souder**
+
+   - **Description :**  
+     Avant de monter les composants, il est recommandé d'ajouter des inserts (des éléments métalliques ou en plastique spécialement conçus pour recevoir des vis) dans le boîtier.  
+     Pour cela, on utilise un fer à souder qui, en chauffant les inserts, permet de les fixer solidement dans la matière imprimée.
+     
+   - **Illustration :**  
+     `![Boitier + insert](/images/etape11.png)`  
+     Cette image montre le boîtier dans lequel les inserts ont été placés, prêts à recevoir les fixations.
+
+3. **Ajouter la carte Arduino UNO**
+
+   - **Description :**  
+     Une fois les inserts en place, la carte Arduino UNO est insérée dans le boîtier.  
+     Cette étape assure que l'électronique de base du projet est correctement positionnée et prête à être connectée aux autres composants.
+     
+   - **Illustration :**  
+     `![Boitier + insert + UNO](/images/etape12.png)`  
+     L'image illustre la carte Arduino UNO insérée dans le boîtier, avec les inserts déjà en place.
+
+4. **Ajouter le shield**
+
+   - **Description :**  
+     Le shield, qui est une extension pour l'Arduino, est ensuite ajouté sur la carte.  
+     Cette étape complète l'intégration de l'électronique, permettant d'ajouter des fonctionnalités supplémentaires (par exemple, gestion d'entrées/sorties, alimentation, etc.).
+     
+   - **Illustration :**  
+     `![Boitier + insert + UNO+ Shield](/images/etape13.png)`  
+     L'image montre le boîtier avec la carte Arduino UNO et le shield monté, indiquant l'évolution de l'assemblage.
+
+5. **Visser les 4 vis dans les inserts**
+
+   - **Description :**  
+     Pour finaliser l'assemblage, 4 vis sont insérées dans les inserts prévus à cet effet.  
+     Ces vis servent à fixer solidement l'ensemble des composants dans le boîtier, garantissant une bonne stabilité mécanique.
+     
+   - **Illustration :**  
+     `![Boitier + insert + UNO+ Shield + Vis](/images/etape14.png)`  
+     Cette dernière image montre l'assemblage complet, où l'ensemble des composants (boîtier, inserts, Arduino, shield) est maintenu par les vis.
+
+---
+
+### En résumé
+
+- **Modèle 3D :** Préparez le boîtier pour l'impression 3D à partir du fichier STL.
+- **Inserts à chaud :** Installez les inserts en chauffant avec un fer à souder pour assurer la fixation des vis.
+- **Montage électronique :** Placez d'abord la carte Arduino UNO, puis ajoutez le shield.
+- **Fixation finale :** Vissez les composants à l'aide des inserts pour un assemblage solide et sécurisé.
+
+Chaque étape est illustrée par une image, permettant de visualiser le processus d'assemblage étape par étape. Cela aide les utilisateurs à reproduire l'assemblage de manière claire et structurée.
 
