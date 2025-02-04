@@ -113,3 +113,13 @@ Voici un guide étape par étape pour concevoir et assembler la carte électroni
 ---
 
 
+# Mise en Boitier
+
+Modèle 3D du boitier à utiliser pour le slicer et l'impression 3D.
+[Boitier Simon](hardware/Boitier/simon_box_2-MainBox.stl)
+- Ajouter les inserts
+![Boitier + insert](/images/etape11.png)
+![Boitier + insert + UNO](/images/etape12.png)
+![Boitier + insert + UNO+ Shield](/images/etape13.png)
+![Boitier + insert + UNO+ Shield](/images/etape14.png)
+
