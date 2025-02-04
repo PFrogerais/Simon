@@ -117,7 +117,7 @@ Voici un guide étape par étape pour concevoir et assembler la carte électroni
 
 Modèle 3D du boitier à utiliser pour le slicer et l'impression 3D.
 [Boitier Simon](hardware/Boitier/simon_box_2-MainBox.stl)
-- Ajouter les inserts
+- Ajouter les inserts à chaud à l'aide d'un fer à souder
   
 ![Boitier + insert](/images/etape11.png)
 - Ajouter la carte Arduino UNO
