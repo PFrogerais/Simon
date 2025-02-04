@@ -175,13 +175,3 @@ Cette section décrit les étapes d'assemblage de votre projet dans un boîtier 
      Cette dernière image montre l'assemblage complet, où l'ensemble des composants (boîtier, inserts, Arduino, shield) est maintenu par les vis.
 
 ---
-
-### En résumé
-
-- **Modèle 3D :** Préparez le boîtier pour l'impression 3D à partir du fichier STL.
-- **Inserts à chaud :** Installez les inserts en chauffant avec un fer à souder pour assurer la fixation des vis.
-- **Montage électronique :** Placez d'abord la carte Arduino UNO, puis ajoutez le shield.
-- **Fixation finale :** Vissez les composants à l'aide des inserts pour un assemblage solide et sécurisé.
-
-Chaque étape est illustrée par une image, permettant de visualiser le processus d'assemblage étape par étape. Cela aide les utilisateurs à reproduire l'assemblage de manière claire et structurée.
-
