@@ -151,7 +151,7 @@ Cette section décrit les étapes d'assemblage de votre projet dans un boîtier 
      Cette étape assure que l'électronique de base du projet est correctement positionnée et prête à être connectée aux autres composants.
      
    - **Illustration :**  
-     `![Boitier + insert + UNO](/images/etape12.png)`  
+     ![Boitier + insert + UNO](/images/etape12.png)  
      L'image illustre la carte Arduino UNO insérée dans le boîtier, avec les inserts déjà en place.
 
 4. **Ajouter le shield**
@@ -161,7 +161,7 @@ Cette section décrit les étapes d'assemblage de votre projet dans un boîtier 
      Cette étape complète l'intégration de l'électronique, permettant d'ajouter des fonctionnalités supplémentaires (par exemple, gestion d'entrées/sorties, alimentation, etc.).
      
    - **Illustration :**  
-     `![Boitier + insert + UNO+ Shield](/images/etape13.png)`  
+     ![Boitier + insert + UNO+ Shield](/images/etape13.png)
      L'image montre le boîtier avec la carte Arduino UNO et le shield monté, indiquant l'évolution de l'assemblage.
 
 5. **Visser les 4 vis dans les inserts**
@@ -171,7 +171,7 @@ Cette section décrit les étapes d'assemblage de votre projet dans un boîtier 
      Ces vis servent à fixer solidement l'ensemble des composants dans le boîtier, garantissant une bonne stabilité mécanique.
      
    - **Illustration :**  
-     `![Boitier + insert + UNO+ Shield + Vis](/images/etape14.png)`  
+     ![Boitier + insert + UNO+ Shield + Vis](/images/etape14.png)  
      Cette dernière image montre l'assemblage complet, où l'ensemble des composants (boîtier, inserts, Arduino, shield) est maintenu par les vis.
 
 ---
