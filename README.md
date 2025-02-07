@@ -4,7 +4,7 @@ Réalisation du jeu simon
 # Dossier de conception du shield Arduino 
 
 
-Voici un guide étape par étape pour concevoir et assembler la carte électronique intégrant des composants CMS (résistances et LED montées en surface) ainsi que des composants traversants (comme le connecteur Arduino et le buzzer). Ce procédé inclut l'application manuelle de pâte à braser et le passage en four à refusion sans utilisation de stencil.
+Voici un guide étape par étape pour concevoir et assembler la carte électronique intégrant des composants CMS (résistances et LED montées en surface) ainsi que des composants traversants (comme le connecteur Arduino et le buzzer). Ce procédé  inclut l'application manuelle de pâte à braser et le passage en four à refusion sans utilisation de stencil.
 
 ---
 
@@ -17,21 +17,21 @@ Voici un guide étape par étape pour concevoir et assembler la carte électroni
 
 ---
 ## 2. Nomenclature 
-| Reference         | Value        |  Footprint                                                  | Qty |
+| Reference         | Value        |  Qty |
 |-------------------|--------------|-------------------------------------------------------------|-----|
-| BZ1               | Buzzer       | Buzzer_Beeper:Buzzer_12x9.5RM7.6                            | 1   |
-| D1                | LED RED      | LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder       | 1   |
-| D2                | LED Green    | LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder       | 1   |
-| D3                | LED Blue     | LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder       | 1   |
-| D4                | LED Yellow   | LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder       | 1   |
-| J1                | Power        | Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical  | 1   |
-| J2,J4             | Digital/PWM  | -- valeurs mixtées --                                       | 2   |
-| J3                | Analog       | Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical  | 1   |
-| R1,R2             | 160          | Resistor_SMD:R_1206_3216Metric                              | 2   |
-| R3                | 100          | Resistor_SMD:R_1206_3216Metric                              | 1   |
-| R4                | 150          | Resistor_SMD:R_1206_3216Metric                              | 1   |
-| R5,R6,R7,R8       | 10k          | Resistor_SMD:R_1206_3216Metric                              | 4   |
-| SW1,SW2,SW3,SW4   | SW_Push      | Button_Switch_SMD:SW_SPST_TL3342                            | 4   |
+| BZ1               | Buzzer       |  1   |
+| D1                | LED RED      |  1   |
+| D2                | LED Green    |  1   |
+| D3                | LED Blue     |  1   |
+| D4                | LED Yellow   |  1   |
+| J1                | Power        |  1   |
+| J2,J4             | Digital/PWM  |  2   |
+| J3                | Analog       |  1   |
+| R1,R2             | 160          |  2   |
+| R3                | 100          |  1   |
+| R4                | 150          |  1   |
+| R5,R6,R7,R8       | 10k          |  4   |
+| SW1,SW2,SW3,SW4   | SW_Push      |  4   |
 
 [Nomenclature](hardware/kicad/simon3/simon3.csv)
 
