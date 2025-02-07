@@ -18,7 +18,7 @@ Voici un guide étape par étape pour concevoir et assembler la carte électroni
 ---
 ## 2. Nomenclature 
 | Reference         | Value        |  Qty |
-|-------------------|--------------|-------------------------------------------------------------|-----|
+|-------------------|--------------|----- |
 | BZ1               | Buzzer       |  1   |
 | D1                | LED RED      |  1   |
 | D2                | LED Green    |  1   |
