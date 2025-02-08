@@ -1,6 +1,3 @@
-# Simon
-
-Réalisation du jeu simon
 
 # Dossier de conception du shield Arduino
 
@@ -113,11 +110,11 @@ Voici un guide étape par étape pour concevoir et assembler la carte électroni
 
 Voici une explication détaillée de la section "Mise en Boitier" telle qu'elle apparaît dans votre README.md :
 
-### Contexte général
+# Conception du boitier en 3D
 
 Cette section décrit les étapes d'assemblage de votre projet dans un boîtier imprimé en 3D. Le but est de fournir toutes les informations nécessaires pour intégrer les composants électroniques (Arduino UNO, shield, etc.) dans le boîtier final. Le modèle 3D du boîtier, au format STL, est mis à disposition pour que vous puissiez le préparer dans votre logiciel de découpe (slicer) et lancer l'impression 3D.
 
-### Détail des étapes
+## Détail des étapes
 
 1. **Modèle 3D du boîtier**
 
@@ -135,7 +132,7 @@ Cette section décrit les étapes d'assemblage de votre projet dans un boîtier 
      Pour cela, on utilise un fer à souder qui, en chauffant les inserts, permet de les fixer solidement dans la matière imprimée.
    - **Illustration :**  
 
-     `![Boitier + insert](/images/etape11.png)`  
+     ![Boitier + insert](images/etape11.png) 
      Cette image montre le boîtier dans lequel les inserts ont été placés, prêts à recevoir les fixations.
 
 3. **Ajouter la carte Arduino UNO**
