@@ -1,4 +1,15 @@
 
+# Démonstration du Jeu Simon – Assemblé & Programmé
+Dans cette vidéo, découvrez le jeu **Simon** entièrement assemblé et programmé !  
+
+![Vidéo démo](https://tube-sciences-technologies.apps.education.fr/w/i4Xqwx69rhGFDRBjq2J4fU)
+
+Ce projet, basé sur une carte Arduino, intègre :
+- **4 LEDs** et **4 boutons** pour reproduire la séquence du jeu,
+- Un **buzzer** pour les signaux sonores,
+- Un **boîtier imprimé en 3D** réalisé sur mesure,
+
+
 # Dossier de conception du shield Arduino
 
 Voici un guide étape par étape pour concevoir et assembler la carte électronique intégrant des composants CMS (résistances et LED montées en surface) ainsi que des composants traversants (comme le connecteur Arduino et le buzzer). Ce procédé  inclut l'application manuelle de pâte à braser et le passage en four à refusion sans utilisation de stencil.
