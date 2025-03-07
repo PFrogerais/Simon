@@ -119,7 +119,6 @@ Voici un guide étape par étape pour concevoir et assembler la carte électroni
   - Alimentez la carte et vérifiez le bon fonctionnement de l’ensemble du circuit (LED, buzzer, connecteur Arduino).
   - Mesurez les tensions et vérifiez la continuité des pistes si nécessaire.
 
-Voici une explication détaillée de la section "Mise en Boitier" telle qu'elle apparaît dans votre README.md :
 
 # Conception du boitier en 3D
 
